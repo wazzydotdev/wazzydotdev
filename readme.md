@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on an open source url shortening service<br>🌱 I'm currently improving at Rust
+🌱 I'm currently improving at Rust 
 
 
 ## 🌐 Socials:
