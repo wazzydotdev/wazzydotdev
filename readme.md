@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on an SSH typing app<br>🌱 I'm currently learning Rust and C++
+🔭 I'm currently working on an SSH typing app<br>🌱 I'm currently improving at Rust
 
 
 ## 🌐 Socials:
