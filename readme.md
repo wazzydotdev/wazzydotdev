@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Wazzy
 
-I'm a developer who enjoys building projects, exploring new technologies, and hosting my own infrastructure.
-
 ## 🌐 Connect With Me
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wazzydev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wazzy@wazzy.dev)
