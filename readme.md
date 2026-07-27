@@ -12,7 +12,6 @@
 ## 📦 Code Hosting
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![Forgejo](https://img.shields.io/badge/Forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)
 ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=codeberg&logoColor=white)
 
